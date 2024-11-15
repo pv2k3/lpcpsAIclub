@@ -21,6 +21,9 @@
   filter: brightness(15%);
 }
 
+.set-trans {
+  transition: all 1s ease-in-out;
+}
 
 .sub-head{
   color: #00B7FD;
